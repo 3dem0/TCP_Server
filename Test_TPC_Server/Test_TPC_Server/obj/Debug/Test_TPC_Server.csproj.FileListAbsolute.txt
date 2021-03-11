@@ -1,0 +1,10 @@
+C:\Users\Demo\source\repos\Test_TPC_Server\Test_TPC_Server\bin\Debug\Test_TPC_Server.exe.config
+C:\Users\Demo\source\repos\Test_TPC_Server\Test_TPC_Server\bin\Debug\Test_TPC_Server.exe
+C:\Users\Demo\source\repos\Test_TPC_Server\Test_TPC_Server\bin\Debug\Test_TPC_Server.pdb
+C:\Users\Demo\source\repos\Test_TPC_Server\Test_TPC_Server\obj\Debug\Test_TPC_Server.csprojAssemblyReference.cache
+C:\Users\Demo\source\repos\Test_TPC_Server\Test_TPC_Server\obj\Debug\Test_TPC_Server.Form1.resources
+C:\Users\Demo\source\repos\Test_TPC_Server\Test_TPC_Server\obj\Debug\Test_TPC_Server.Properties.Resources.resources
+C:\Users\Demo\source\repos\Test_TPC_Server\Test_TPC_Server\obj\Debug\Test_TPC_Server.csproj.GenerateResource.cache
+C:\Users\Demo\source\repos\Test_TPC_Server\Test_TPC_Server\obj\Debug\Test_TPC_Server.csproj.CoreCompileInputs.cache
+C:\Users\Demo\source\repos\Test_TPC_Server\Test_TPC_Server\obj\Debug\Test_TPC_Server.exe
+C:\Users\Demo\source\repos\Test_TPC_Server\Test_TPC_Server\obj\Debug\Test_TPC_Server.pdb
